@@ -1,0 +1,251 @@
+Name,GPA,Skills,Projects,Preferred Domain,Certifications,Internships Completed,Hackathon Participation,Github Profile Score (/10),Selected
+Harsh,7.22,"R, Statistics",IoT Home Automation,Backend,Git/GitHub,2,Yes,4.8,Yes
+Ankit,6.81,"Java, OOP",Health Data Analysis,Mobile Dev,Udemy Web Dev,1,No,7.4,Yes
+Pranav,8.59,"C++, DSA",Sales Dashboard,Mobile Dev,NPTEL AI,1,Yes,9.7,Yes
+Tara,8.69,"C, Embedded",Credit Scoring,Data Science,Google Data Cert,1,No,6.3,Yes
+Kritika,6.45,"C++, DSA",Sales Dashboard,Mobile Dev,NPTEL AI,1,No,9.6,Yes
+Nikhil,9.06,"Swift, iOS Dev",Health Data Analysis,AI/ML,AI for Everyone,0,Yes,5.6,No
+Arjun,7.16,"C++, DSA",IoT Home Automation,Frontend,Kaggle Competitions,0,Yes,9.3,No
+Deepak,8.94,"C++, DSA",Health Data Analysis,Backend,Kaggle Competitions,2,Yes,9.3,No
+Ritu,7.68,"HTML, CSS, JS",Chatbot,Cybersecurity,Udemy Web Dev,0,Yes,9.4,Yes
+Rajan,9.04,"Python, ML",Loan Prediction,Backend,Coursera ML,1,No,9.8,Yes
+Shreya,6.71,"R, Statistics",IoT Home Automation,Frontend,AWS Cloud Basics,1,Yes,7.5,Yes
+Vikram,6.27,"Java, OOP",Health Data Analysis,Cybersecurity,Linux Essentials,0,Yes,9.1,Yes
+Payal,6.97,"C++, DSA",Portfolio Website,Data Analysis,Kaggle Competitions,1,No,7,Yes
+Ajay,6.02,"HTML, CSS, JS",Portfolio Website,Mobile Dev,DSA Specialization,2,No,8.5,No
+Ansh,8.11,"C, Embedded",Chatbot,Frontend,Linux Essentials,2,Yes,8.6,Yes
+Ravi,9.07,"Swift, iOS Dev",Portfolio Website,Frontend,Google Data Cert,0,Yes,4.3,No
+Ramesh,7.52,"Python, NLP",Credit Scoring,DevOps,Google Data Cert,0,Yes,9.6,No
+Sonali,6.71,"Python, NLP",Sales Dashboard,Data Science,Linux Essentials,0,No,8.1,Yes
+Dev,8.42,"JavaScript, React",Loan Prediction,DevOps,Linux Essentials,2,No,6.2,Yes
+Meena,7.46,"JavaScript, React",Sales Dashboard,Frontend,Kaggle Competitions,0,No,5.5,Yes
+Kavya,9.5,"Python, ML",Loan Prediction,Frontend,Kaggle Competitions,0,Yes,7.1,Yes
+Vidya,7.42,"Python, ML",Health Data Analysis,Web Dev,Git/GitHub,1,Yes,8.5,Yes
+Gaurav,8.25,"C, Embedded",Credit Scoring,Frontend,Coursera ML,2,Yes,5.6,Yes
+Pooja,6.21,"JavaScript, React",Health Data Analysis,DevOps,DSA Specialization,2,Yes,4.9,Yes
+Aman,8.03,"Swift, iOS Dev",Health Data Analysis,AI/ML,AWS Cloud Basics,1,Yes,4.5,Yes
+Karan,8.29,"R, Statistics",Sales Dashboard,Data Analysis,DSA Specialization,1,Yes,9.4,No
+Rohit,7.93,"R, Statistics",Library System,Mobile Dev,Linux Essentials,0,No,5.1,No
+Mihir,6.35,"Python, NLP",E-commerce Site,Web Dev,AWS Cloud Basics,0,No,4.7,Yes
+Rhea,8.58,"Python, ML",E-commerce Site,AI/ML,Udemy Web Dev,0,Yes,4.8,Yes
+Lavanya,8.36,"Python, NLP",Portfolio Website,Mobile Dev,Udemy Web Dev,2,Yes,5.2,No
+Tanya,9.33,"Python, NLP",Loan Prediction,Embedded Systems,AI for Everyone,2,No,7.9,Yes
+Bhavana,9.47,"C++, DSA",E-commerce Site,Embedded Systems,Git/GitHub,0,Yes,8,No
+Neha,8.85,"Java, OOP",Library System,DevOps,DSA Specialization,1,No,6.5,Yes
+Isha,7.23,"C, Embedded",E-commerce Site,Web Dev,AWS Cloud Basics,2,Yes,9.5,Yes
+Sameer,8.13,"Java, OOP",IoT Home Automation,Backend,Git/GitHub,1,Yes,8.3,Yes
+Prachi,8.12,"JavaScript, React",Loan Prediction,Backend,AI for Everyone,0,No,6.6,Yes
+Nitin,6.15,"Python, ML",Credit Scoring,DevOps,Git/GitHub,0,No,9.5,No
+Tanvi,6.79,"Python, SQL, Tableau",Chatbot,Data Analysis,Google Data Cert,1,Yes,4.1,Yes
+Manav,6.28,"Swift, iOS Dev",IoT Home Automation,Data Analysis,Kaggle Competitions,0,No,5.1,Yes
+Ira,9.15,"C++, DSA",Chatbot,Embedded Systems,NPTEL AI,0,No,9,No
+Aditi,8.48,"Python, SQL, Tableau",Personal Blog,Data Analysis,Git/GitHub,2,Yes,9.7,Yes
+Siddharth,7.05,"Python, ML",Credit Scoring,Embedded Systems,Linux Essentials,0,No,4.8,Yes
+Diya,8.89,"Python, NLP",Credit Scoring,Web Dev,Linux Essentials,0,No,8.7,Yes
+Aarav,7.39,"Python, ML",IoT Home Automation,Frontend,Coursera ML,2,Yes,4.2,Yes
+Nisha,6.17,"HTML, CSS, JS",Loan Prediction,Embedded Systems,Google Data Cert,1,Yes,9.7,No
+Simran,7.59,"HTML, CSS, JS",Loan Prediction,Cybersecurity,NPTEL AI,0,No,9.2,No
+Rahul,6.6,"C++, DSA",IoT Home Automation,Mobile Dev,NPTEL AI,1,Yes,6.5,Yes
+Yash,7.2,"Python, ML",IoT Home Automation,Web Dev,AI for Everyone,1,Yes,7.7,No
+Sneha,7.43,"Python, SQL, Tableau",IoT Home Automation,DevOps,Linux Essentials,0,No,9.7,No
+Divya,9.06,"JavaScript, React",Sales Dashboard,AI/ML,Linux Essentials,0,Yes,6.3,Yes
+Sneha,7.862107048,"Python, SQL, Tableau",IoT Home Automation,DevOps,Linux Essentials,1,No,10,Yes
+Aditi,8.332093348,"Python, SQL, Tableau",Personal Blog,Data Analysis,Git/GitHub,1,Yes,10,Yes
+Tara,7.917993181,"C, Embedded",Credit Scoring,Data Science,Google Data Cert,1,No,5.209978997,No
+Tanya,9.996962504,"Python, NLP",Loan Prediction,Embedded Systems,AI for Everyone,2,No,7.290098384,Yes
+Ira,8.816277673,"C++, DSA",Chatbot,Embedded Systems,NPTEL AI,1,Yes,9.270940303,Yes
+Manav,6.38497659,"Swift, iOS Dev",IoT Home Automation,Data Analysis,Kaggle Competitions,0,Yes,4.979364471,No
+Dev,8.703612298,"JavaScript, React",Loan Prediction,DevOps,Linux Essentials,3,Yes,5.337119045,No
+Sameer,8.623300194,"Java, OOP",IoT Home Automation,Backend,Git/GitHub,0,No,7.541990244,Yes
+Ansh,8.235908921,"C, Embedded",Chatbot,Frontend,Linux Essentials,3,Yes,8.22087566,No
+Sneha,7.071831025,"Python, SQL, Tableau",IoT Home Automation,DevOps,Linux Essentials,0,No,9.775271976,Yes
+Tanvi,6.963334129,"Python, SQL, Tableau",Chatbot,Data Analysis,Google Data Cert,2,No,5.979013208,Yes
+Isha,6.569803321,"C, Embedded",E-commerce Site,Web Dev,AWS Cloud Basics,1,No,10,Yes
+Dev,8.338512943,"JavaScript, React",Loan Prediction,DevOps,Linux Essentials,2,Yes,6.620878083,Yes
+Vidya,7.466200522,"Python, ML",Health Data Analysis,Web Dev,Git/GitHub,1,Yes,8.931863825,Yes
+Aarav,7.877258416,"Python, ML",IoT Home Automation,Frontend,Coursera ML,3,No,5.259979464,No
+Ritu,7.195951587,"HTML, CSS, JS",Chatbot,Cybersecurity,Udemy Web Dev,0,Yes,10,No
+Simran,7.660985957,"HTML, CSS, JS",Loan Prediction,Cybersecurity,NPTEL AI,1,Yes,8.67130449,No
+Bhavana,9.256131372,"C++, DSA",E-commerce Site,Embedded Systems,Git/GitHub,1,Yes,9.424575636,Yes
+Manav,5.828739828,"Swift, iOS Dev",IoT Home Automation,Data Analysis,Kaggle Competitions,0,Yes,3.932640869,No
+Aarav,7.209962607,"Python, ML",IoT Home Automation,Frontend,Coursera ML,1,No,3.191427495,Yes
+Deepak,9.474704762,"C++, DSA",Health Data Analysis,Backend,Kaggle Competitions,1,No,7.029365033,Yes
+Vikram,7.053581188,"Java, OOP",Health Data Analysis,Cybersecurity,Linux Essentials,0,Yes,9.04982001,Yes
+Kritika,6.029191918,"C++, DSA",Sales Dashboard,Mobile Dev,NPTEL AI,2,No,9.968612548,Yes
+Yash,7.453575573,"Python, ML",IoT Home Automation,Web Dev,AI for Everyone,2,No,5.923445773,No
+Diya,8.812942797,"Python, NLP",Credit Scoring,Web Dev,Linux Essentials,0,Yes,7.964699016,Yes
+Rhea,8.609040189,"Python, ML",E-commerce Site,AI/ML,Udemy Web Dev,0,No,5.271230533,No
+Harsh,7.496472126,"R, Statistics",IoT Home Automation,Backend,Git/GitHub,3,Yes,3.552228419,No
+Tara,9.095199408,"C, Embedded",Credit Scoring,Data Science,Google Data Cert,0,No,5.934667049,Yes
+Diya,8.576968512,"Python, NLP",Credit Scoring,Web Dev,Linux Essentials,0,No,8.401487842,Yes
+Kritika,6.215392368,"C++, DSA",Sales Dashboard,Mobile Dev,NPTEL AI,2,No,7.567221055,Yes
+Ansh,8.739454827,"C, Embedded",Chatbot,Frontend,Linux Essentials,3,No,7.776425473,No
+Kritika,6.136406136,"C++, DSA",Sales Dashboard,Mobile Dev,NPTEL AI,1,Yes,9.788954698,Yes
+Nitin,5.569086395,"Python, ML",Credit Scoring,DevOps,Git/GitHub,0,Yes,8.813789503,Yes
+Kritika,6.962165012,"C++, DSA",Sales Dashboard,Mobile Dev,NPTEL AI,2,No,9.462196426,Yes
+Kritika,6.590005754,"C++, DSA",Sales Dashboard,Mobile Dev,NPTEL AI,0,Yes,10,No
+Harsh,7.423608847,"R, Statistics",IoT Home Automation,Backend,Git/GitHub,3,Yes,5.778807237,Yes
+Rohit,8.22693956,"R, Statistics",Library System,Mobile Dev,Linux Essentials,0,Yes,5.199546153,Yes
+Sneha,7.357319318,"Python, SQL, Tableau",IoT Home Automation,DevOps,Linux Essentials,0,No,10,Yes
+Deepak,8.733833563,"C++, DSA",Health Data Analysis,Backend,Kaggle Competitions,2,No,10,Yes
+Sameer,7.943814441,"Java, OOP",IoT Home Automation,Backend,Git/GitHub,2,Yes,8.137551204,No
+Tanya,9.595137601,"Python, NLP",Loan Prediction,Embedded Systems,AI for Everyone,3,Yes,8.675964047,No
+Aman,7.73610507,"Swift, iOS Dev",Health Data Analysis,AI/ML,AWS Cloud Basics,2,No,3.630129251,No
+Vikram,6.187731075,"Java, OOP",Health Data Analysis,Cybersecurity,Linux Essentials,0,Yes,8.097376518,Yes
+Bhavana,9.533322847,"C++, DSA",E-commerce Site,Embedded Systems,Git/GitHub,0,Yes,8.519657733,No
+Mihir,6.36988917,"Python, NLP",E-commerce Site,Web Dev,AWS Cloud Basics,1,Yes,4.68684664,No
+Rahul,7.258569341,"C++, DSA",IoT Home Automation,Mobile Dev,NPTEL AI,2,No,6.798505333,No
+Deepak,8.619193652,"C++, DSA",Health Data Analysis,Backend,Kaggle Competitions,3,No,9.432147032,No
+Sameer,7.992860844,"Java, OOP",IoT Home Automation,Backend,Git/GitHub,0,No,6.776935481,Yes
+Isha,7.090447867,"C, Embedded",E-commerce Site,Web Dev,AWS Cloud Basics,3,Yes,10,Yes
+Pooja,6.479415648,"JavaScript, React",Health Data Analysis,DevOps,DSA Specialization,3,No,3.091876656,Yes
+Rahul,5.854831822,"C++, DSA",IoT Home Automation,Mobile Dev,NPTEL AI,1,Yes,5.815378281,Yes
+Aarav,7.35992,"Python, ML",IoT Home Automation,Frontend,Coursera ML,2,No,4.025571853,No
+Manav,6.205336775,"Swift, iOS Dev",IoT Home Automation,Data Analysis,Kaggle Competitions,1,No,3.065071564,Yes
+Siddharth,7.53465796,"Python, ML",Credit Scoring,Embedded Systems,Linux Essentials,0,No,5.541693684,Yes
+Kavya,8.401655762,"Python, ML",Loan Prediction,Frontend,Kaggle Competitions,0,No,5.477295817,No
+Payal,6.758203186,"C++, DSA",Portfolio Website,Data Analysis,Kaggle Competitions,2,No,7.39705566,No
+Aditi,8.67234085,"Python, SQL, Tableau",Personal Blog,Data Analysis,Git/GitHub,1,Yes,10,Yes
+Kritika,7.037877386,"C++, DSA",Sales Dashboard,Mobile Dev,NPTEL AI,0,Yes,10,Yes
+Arjun,7.042014383,"C++, DSA",IoT Home Automation,Frontend,Kaggle Competitions,0,No,10,Yes
+Diya,9.163947646,"Python, NLP",Credit Scoring,Web Dev,Linux Essentials,1,No,8.16367077,Yes
+Harsh,7.834283573,"R, Statistics",IoT Home Automation,Backend,Git/GitHub,1,Yes,5.368439387,Yes
+Ajay,6.407891656,"HTML, CSS, JS",Portfolio Website,Mobile Dev,DSA Specialization,1,Yes,8.410701192,Yes
+Pooja,5.683846937,"JavaScript, React",Health Data Analysis,DevOps,DSA Specialization,3,Yes,5.153932044,Yes
+Aditi,8.971657235,"Python, SQL, Tableau",Personal Blog,Data Analysis,Git/GitHub,3,No,9.757571261,Yes
+Tanya,9.646109695,"Python, NLP",Loan Prediction,Embedded Systems,AI for Everyone,3,Yes,8.381679886,No
+Rahul,6.596994021,"C++, DSA",IoT Home Automation,Mobile Dev,NPTEL AI,1,Yes,6.025600526,Yes
+Prachi,7.955721356,"JavaScript, React",Loan Prediction,Backend,AI for Everyone,1,Yes,7.181518109,Yes
+Ira,9.597021626,"C++, DSA",Chatbot,Embedded Systems,NPTEL AI,0,Yes,7.206165454,Yes
+Nikhil,9.282402523,"Swift, iOS Dev",Health Data Analysis,AI/ML,AI for Everyone,0,Yes,6.957762161,Yes
+Nitin,6.027593504,"Python, ML",Credit Scoring,DevOps,Git/GitHub,1,No,9.63570549,No
+Arjun,7.791673113,"C++, DSA",IoT Home Automation,Frontend,Kaggle Competitions,0,No,9.160185369,Yes
+Aman,8.186622911,"Swift, iOS Dev",Health Data Analysis,AI/ML,AWS Cloud Basics,0,No,4.828340869,Yes
+Shreya,6.620566177,"R, Statistics",IoT Home Automation,Frontend,AWS Cloud Basics,1,No,6.253926588,Yes
+Dev,9.299849919,"JavaScript, React",Loan Prediction,DevOps,Linux Essentials,2,No,7.910752105,Yes
+Vidya,7.852159663,"Python, ML",Health Data Analysis,Web Dev,Git/GitHub,2,Yes,8.678538966,Yes
+Aarav,6.517529928,"Python, ML",IoT Home Automation,Frontend,Coursera ML,3,Yes,4.993730625,No
+Isha,7.055196918,"C, Embedded",E-commerce Site,Web Dev,AWS Cloud Basics,2,No,10,Yes
+Deepak,9.419191432,"C++, DSA",Health Data Analysis,Backend,Kaggle Competitions,3,No,9.794688471,No
+Sneha,7.37342988,"Python, SQL, Tableau",IoT Home Automation,DevOps,Linux Essentials,0,Yes,9.515605207,Yes
+Diya,8.973643665,"Python, NLP",Credit Scoring,Web Dev,Linux Essentials,0,No,7.447150094,Yes
+Yash,7.629616833,"Python, ML",IoT Home Automation,Web Dev,AI for Everyone,1,No,8.405724785,Yes
+Sameer,8.344080436,"Java, OOP",IoT Home Automation,Backend,Git/GitHub,1,Yes,9.472437919,Yes
+Sneha,7.067844525,"Python, SQL, Tableau",IoT Home Automation,DevOps,Linux Essentials,0,No,8.211629149,No
+Yash,7.127220719,"Python, ML",IoT Home Automation,Web Dev,AI for Everyone,1,Yes,6.679113079,No
+Ansh,8.501007626,"C, Embedded",Chatbot,Frontend,Linux Essentials,2,Yes,9.020913654,Yes
+Yash,7.206896852,"Python, ML",IoT Home Automation,Web Dev,AI for Everyone,2,No,6.903587755,Yes
+Ramesh,7.750888508,"Python, NLP",Credit Scoring,DevOps,Google Data Cert,1,No,10,No
+Ajay,5.570396314,"HTML, CSS, JS",Portfolio Website,Mobile Dev,DSA Specialization,1,Yes,9.296351548,Yes
+Karan,8.402997352,"R, Statistics",Sales Dashboard,Data Analysis,DSA Specialization,0,Yes,10,Yes
+Diya,8.519891433,"Python, NLP",Credit Scoring,Web Dev,Linux Essentials,0,Yes,8.849239286,Yes
+Rahul,7.098234204,"C++, DSA",IoT Home Automation,Mobile Dev,NPTEL AI,0,Yes,6.721701192,Yes
+Aarav,7.482907609,"Python, ML",IoT Home Automation,Frontend,Coursera ML,3,Yes,3.716922455,Yes
+Ritu,8.122236511,"HTML, CSS, JS",Chatbot,Cybersecurity,Udemy Web Dev,0,Yes,10,Yes
+Bhavana,9.648503334,"C++, DSA",E-commerce Site,Embedded Systems,Git/GitHub,0,No,7.653519006,Yes
+Karan,9.151463279,"R, Statistics",Sales Dashboard,Data Analysis,DSA Specialization,1,No,9.346830622,Yes
+Tanya,9.146268733,"Python, NLP",Loan Prediction,Embedded Systems,AI for Everyone,2,No,6.966337418,No
+Rhea,8.492781175,"Python, ML",E-commerce Site,AI/ML,Udemy Web Dev,1,Yes,2.498070408,Yes
+Aman,8.425256856,"Swift, iOS Dev",Health Data Analysis,AI/ML,AWS Cloud Basics,1,Yes,5.812423602,Yes
+Sameer,8.331228133,"Java, OOP",IoT Home Automation,Backend,Git/GitHub,1,Yes,8.313203577,No
+Tara,8.095176116,"C, Embedded",Credit Scoring,Data Science,Google Data Cert,0,Yes,5.362169189,Yes
+Sameer,8.45966732,"Java, OOP",IoT Home Automation,Backend,Git/GitHub,1,No,8.677619959,No
+Mihir,6.556366273,"Python, NLP",E-commerce Site,Web Dev,AWS Cloud Basics,0,Yes,4.184600521,No
+Pooja,6.633546741,"JavaScript, React",Health Data Analysis,DevOps,DSA Specialization,1,No,5.452435592,No
+Kavya,8.934428881,"Python, ML",Loan Prediction,Frontend,Kaggle Competitions,1,No,6.85304719,Yes
+Kavya,10,"Python, ML",Loan Prediction,Frontend,Kaggle Competitions,0,Yes,5.489374971,Yes
+Ankit,6.049997883,"Java, OOP",Health Data Analysis,Mobile Dev,Udemy Web Dev,1,No,5.58266159,No
+Tara,9.091979962,"C, Embedded",Credit Scoring,Data Science,Google Data Cert,2,Yes,5.613497993,Yes
+Neha,8.491865534,"Java, OOP",Library System,DevOps,DSA Specialization,2,No,6.489422059,Yes
+Siddharth,6.993218113,"Python, ML",Credit Scoring,Embedded Systems,Linux Essentials,0,Yes,4.555970855,Yes
+Payal,6.913875501,"C++, DSA",Portfolio Website,Data Analysis,Kaggle Competitions,1,No,5.88970256,Yes
+Sonali,6.428316525,"Python, NLP",Sales Dashboard,Data Science,Linux Essentials,1,No,8.710508175,Yes
+Sonali,6.721267016,"Python, NLP",Sales Dashboard,Data Science,Linux Essentials,0,Yes,9.333874648,Yes
+Vidya,7.749396391,"Python, ML",Health Data Analysis,Web Dev,Git/GitHub,1,No,8.579906617,Yes
+Tanvi,6.603497263,"Python, SQL, Tableau",Chatbot,Data Analysis,Google Data Cert,2,Yes,3.784788986,Yes
+Rhea,7.976939777,"Python, ML",E-commerce Site,AI/ML,Udemy Web Dev,0,Yes,6.173554745,Yes
+Ankit,7.006114834,"Java, OOP",Health Data Analysis,Mobile Dev,Udemy Web Dev,1,Yes,7.840540815,Yes
+Aditi,9.123187084,"Python, SQL, Tableau",Personal Blog,Data Analysis,Git/GitHub,1,Yes,8.069553814,Yes
+Vidya,7.149937251,"Python, ML",Health Data Analysis,Web Dev,Git/GitHub,2,No,8.992435042,No
+Karan,8.37243976,"R, Statistics",Sales Dashboard,Data Analysis,DSA Specialization,0,Yes,10,No
+Ankit,6.804881915,"Java, OOP",Health Data Analysis,Mobile Dev,Udemy Web Dev,1,Yes,6.256168456,No
+Kritika,6.97740253,"C++, DSA",Sales Dashboard,Mobile Dev,NPTEL AI,2,Yes,10,Yes
+Ansh,8.41706392,"C, Embedded",Chatbot,Frontend,Linux Essentials,3,Yes,8.153586085,Yes
+Payal,6.849893507,"C++, DSA",Portfolio Website,Data Analysis,Kaggle Competitions,2,No,4.941976324,No
+Meena,7.616332286,"JavaScript, React",Sales Dashboard,Frontend,Kaggle Competitions,1,No,5.961919366,Yes
+Siddharth,7.655711828,"Python, ML",Credit Scoring,Embedded Systems,Linux Essentials,1,No,5.882784852,No
+Rahul,5.731633751,"C++, DSA",IoT Home Automation,Mobile Dev,NPTEL AI,1,Yes,6.841243523,Yes
+Manav,5.77126867,"Swift, iOS Dev",IoT Home Automation,Data Analysis,Kaggle Competitions,0,Yes,5.480192347,Yes
+Rohit,8.060536116,"R, Statistics",Library System,Mobile Dev,Linux Essentials,0,No,4.107530636,Yes
+Pranav,8.14103166,"C++, DSA",Sales Dashboard,Mobile Dev,NPTEL AI,0,No,8.634953521,Yes
+Mihir,5.997052668,"Python, NLP",E-commerce Site,Web Dev,AWS Cloud Basics,0,No,5.458137112,Yes
+Siddharth,6.745046715,"Python, ML",Credit Scoring,Embedded Systems,Linux Essentials,0,Yes,5.371829603,Yes
+Ravi,8.364422778,"Swift, iOS Dev",Portfolio Website,Frontend,Google Data Cert,0,No,3.758412475,Yes
+Yash,7.054314631,"Python, ML",IoT Home Automation,Web Dev,AI for Everyone,1,Yes,7.107249904,Yes
+Nitin,6.445835021,"Python, ML",Credit Scoring,DevOps,Git/GitHub,0,No,7.0468023,Yes
+Sneha,7.305932225,"Python, SQL, Tableau",IoT Home Automation,DevOps,Linux Essentials,0,No,8.279300811,Yes
+Pooja,6.125681701,"JavaScript, React",Health Data Analysis,DevOps,DSA Specialization,2,No,4.780452503,Yes
+Payal,7.56953952,"C++, DSA",Portfolio Website,Data Analysis,Kaggle Competitions,1,No,6.905747336,Yes
+Ritu,7.262782692,"HTML, CSS, JS",Chatbot,Cybersecurity,Udemy Web Dev,0,Yes,9.841328379,Yes
+Ravi,9.080703245,"Swift, iOS Dev",Portfolio Website,Frontend,Google Data Cert,1,No,5.397745433,Yes
+Deepak,8.443287285,"C++, DSA",Health Data Analysis,Backend,Kaggle Competitions,1,Yes,10,Yes
+Ramesh,7.883150454,"Python, NLP",Credit Scoring,DevOps,Google Data Cert,0,Yes,10,No
+Ravi,8.679529904,"Swift, iOS Dev",Portfolio Website,Frontend,Google Data Cert,0,Yes,5.122747829,No
+Ajay,5.952205131,"HTML, CSS, JS",Portfolio Website,Mobile Dev,DSA Specialization,1,No,10,Yes
+Tanvi,7.364705011,"Python, SQL, Tableau",Chatbot,Data Analysis,Google Data Cert,2,Yes,4.28550162,Yes
+Siddharth,7.191627483,"Python, ML",Credit Scoring,Embedded Systems,Linux Essentials,1,Yes,2.143029424,Yes
+Payal,6.840972727,"C++, DSA",Portfolio Website,Data Analysis,Kaggle Competitions,0,No,5.811310693,Yes
+Siddharth,7.192711874,"Python, ML",Credit Scoring,Embedded Systems,Linux Essentials,0,No,5.208658628,Yes
+Ramesh,7.799958158,"Python, NLP",Credit Scoring,DevOps,Google Data Cert,0,No,7.639526908,No
+Ajay,5.923769281,"HTML, CSS, JS",Portfolio Website,Mobile Dev,DSA Specialization,1,No,8.61665818,Yes
+Nitin,6.0041444,"Python, ML",Credit Scoring,DevOps,Git/GitHub,0,Yes,10,No
+Pranav,8.747861602,"C++, DSA",Sales Dashboard,Mobile Dev,NPTEL AI,1,No,10,Yes
+Pooja,5.674842241,"JavaScript, React",Health Data Analysis,DevOps,DSA Specialization,2,Yes,4.657766389,Yes
+Mihir,5.799170177,"Python, NLP",E-commerce Site,Web Dev,AWS Cloud Basics,0,No,5.474344905,Yes
+Pranav,8.68372314,"C++, DSA",Sales Dashboard,Mobile Dev,NPTEL AI,1,Yes,10,Yes
+Tanya,9.30067172,"Python, NLP",Loan Prediction,Embedded Systems,AI for Everyone,3,Yes,6.091156229,Yes
+Deepak,8.991695197,"C++, DSA",Health Data Analysis,Backend,Kaggle Competitions,2,Yes,8.571195807,Yes
+Shreya,6.849480436,"R, Statistics",IoT Home Automation,Frontend,AWS Cloud Basics,1,No,7.837843555,Yes
+Kritika,6.269881542,"C++, DSA",Sales Dashboard,Mobile Dev,NPTEL AI,0,Yes,10,Yes
+Nisha,6.368359918,"HTML, CSS, JS",Loan Prediction,Embedded Systems,Google Data Cert,2,No,9.817517314,No
+Gaurav,8.738154514,"C, Embedded",Credit Scoring,Frontend,Coursera ML,1,No,6.576738604,Yes
+Pooja,5.918450803,"JavaScript, React",Health Data Analysis,DevOps,DSA Specialization,1,No,5.394533541,Yes
+Yash,6.16221957,"Python, ML",IoT Home Automation,Web Dev,AI for Everyone,1,Yes,8.661950672,Yes
+Bhavana,9.463395385,"C++, DSA",E-commerce Site,Embedded Systems,Git/GitHub,1,No,7.106487693,Yes
+Dev,8.816704381,"JavaScript, React",Loan Prediction,DevOps,Linux Essentials,1,Yes,5.928904275,Yes
+Rahul,7.018398302,"C++, DSA",IoT Home Automation,Mobile Dev,NPTEL AI,2,Yes,7.012467785,No
+Sameer,8.272230855,"Java, OOP",IoT Home Automation,Backend,Git/GitHub,1,No,6.501734127,Yes
+Ansh,8.228677716,"C, Embedded",Chatbot,Frontend,Linux Essentials,1,No,9.325513491,Yes
+Kritika,6.491304329,"C++, DSA",Sales Dashboard,Mobile Dev,NPTEL AI,1,Yes,9.822422377,Yes
+Tara,8.553460287,"C, Embedded",Credit Scoring,Data Science,Google Data Cert,1,No,7.457403561,No
+Neha,9.614201476,"Java, OOP",Library System,DevOps,DSA Specialization,2,No,6.055175123,Yes
+Nisha,6.133869812,"HTML, CSS, JS",Loan Prediction,Embedded Systems,Google Data Cert,2,Yes,9.544789055,Yes
+Harsh,7.09455921,"R, Statistics",IoT Home Automation,Backend,Git/GitHub,2,Yes,6.933113925,Yes
+Kritika,6.387168056,"C++, DSA",Sales Dashboard,Mobile Dev,NPTEL AI,1,No,8.532868103,Yes
+Kavya,8.708349034,"Python, ML",Loan Prediction,Frontend,Kaggle Competitions,0,No,7.7622033,No
+Ansh,8.306557787,"C, Embedded",Chatbot,Frontend,Linux Essentials,3,Yes,8.60144163,Yes
+Ankit,6.819721024,"Java, OOP",Health Data Analysis,Mobile Dev,Udemy Web Dev,1,Yes,5.852279321,No
+Rajan,9.599414721,"Python, ML",Loan Prediction,Backend,Coursera ML,1,No,8.308866748,Yes
+Neha,8.496923998,"Java, OOP",Library System,DevOps,DSA Specialization,0,No,6.521084586,Yes
+Diya,8.874483931,"Python, NLP",Credit Scoring,Web Dev,Linux Essentials,1,No,7.541086463,Yes
+Aman,8.587054118,"Swift, iOS Dev",Health Data Analysis,AI/ML,AWS Cloud Basics,2,Yes,3.973473919,Yes
+Lavanya,7.810183795,"Python, NLP",Portfolio Website,Mobile Dev,Udemy Web Dev,2,No,3.240106094,Yes
+Meena,7.532550364,"JavaScript, React",Sales Dashboard,Frontend,Kaggle Competitions,0,No,5.422229104,Yes
+Prachi,8.114285148,"JavaScript, React",Loan Prediction,Backend,AI for Everyone,0,No,7.951796073,Yes
+Dev,8.651791796,"JavaScript, React",Loan Prediction,DevOps,Linux Essentials,3,Yes,5.768452779,No
+Divya,8.888444626,"JavaScript, React",Sales Dashboard,AI/ML,Linux Essentials,1,No,5.574568648,Yes
+Aditi,8.310086712,"Python, SQL, Tableau",Personal Blog,Data Analysis,Git/GitHub,3,No,9.377835327,Yes
+Payal,6.814926226,"C++, DSA",Portfolio Website,Data Analysis,Kaggle Competitions,1,Yes,7.806290323,No
+Ira,9.947200398,"C++, DSA",Chatbot,Embedded Systems,NPTEL AI,0,No,8.681779019,Yes
+Vikram,6.214829016,"Java, OOP",Health Data Analysis,Cybersecurity,Linux Essentials,0,Yes,9.876959285,Yes
+Nikhil,8.744112359,"Swift, iOS Dev",Health Data Analysis,AI/ML,AI for Everyone,1,No,4.263156626,Yes
+Bhavana,9.722569104,"C++, DSA",E-commerce Site,Embedded Systems,Git/GitHub,0,Yes,7.728579686,Yes
+Sameer,8.480848169,"Java, OOP",IoT Home Automation,Backend,Git/GitHub,1,No,9.304182107,Yes
+Tanya,9.606887193,"Python, NLP",Loan Prediction,Embedded Systems,AI for Everyone,3,Yes,7.67077355,Yes
+Harsh,7.655803386,"R, Statistics",IoT Home Automation,Backend,Git/GitHub,1,Yes,4.896658963,No
+Sameer,7.486291825,"Java, OOP",IoT Home Automation,Backend,Git/GitHub,1,Yes,8.400321938,Yes
+Rahul,6.463289737,"C++, DSA",IoT Home Automation,Mobile Dev,NPTEL AI,2,Yes,5.458389333,Yes
+Bhavana,9.705496381,"C++, DSA",E-commerce Site,Embedded Systems,Git/GitHub,1,Yes,9.685093413,Yes
+Ramesh,6.913159061,"Python, NLP",Credit Scoring,DevOps,Google Data Cert,0,No,8.857432413,No
+Vikram,6.155001706,"Java, OOP",Health Data Analysis,Cybersecurity,Linux Essentials,0,Yes,9.258260614,Yes
+Bhavana,9.379911407,"C++, DSA",E-commerce Site,Embedded Systems,Git/GitHub,1,Yes,7.682371004,Yes
